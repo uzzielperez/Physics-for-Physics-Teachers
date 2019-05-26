@@ -5,9 +5,9 @@ A repository of teaching materials for high school physics.
 There are different ways you can order the topics you want to teach in physics. 
 Below is one suggestion. 
 
-Chapter 2: Motion in One Dimension
-Chapter 3: Vectors
-Chapter 4: Motion in Two Dimensions
+Chapter 2: Motion in One Dimension 
+Chapter 3: Vectors 
+Chapter 4: Motion in Two Dimensions 
 Chapter 5: The Laws of Motion
 Chapter 6: Circular Motion and Other Applications of Newton's Laws
 Chapter 7: Energy of a System
