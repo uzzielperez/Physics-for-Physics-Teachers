@@ -5,9 +5,27 @@ Work-in-progress. Summer 2019.
 
 Email <cperez3@crimson.ua.edu> for suggestions or submit a pull request.
 
-If you only had an hour to learn physics, [Walter Lewin's Last Lecture](https://www.youtube.com/watch?v=4OyyWwpwxR8) could be your best bet. If you have an extra 10 minutes [Paul Hewitt's Conceptual Physics Workshop For Teachers](https://www.youtube.com/watch?v=jB6UBlzpklc) offers practical advice on teaching physics.
+If you only had an hour to learn physics, [Walter Lewin's Last Lecture](https://www.youtube.com/watch?v=4OyyWwpwxR8) could be your best bet. [Paul Hewitt's Conceptual Physics Workshop For Teachers](https://www.youtube.com/watch?v=jB6UBlzpklc) also offers practical advice on teaching physics.
 
 ## Topics
+### Kinematics and Force Laws
+
+Video Resources: <br>
+- [Kinematics - Science of NFL football](https://www.youtube.com/watch?v=VrDFqmhTTVQ)
+- [One-dimensional Kinematics - SpaceX Reusable rocket](https://www.youtube.com/watch?v=bkbG8BJsInE) <br>
+-  [World's Biggest vacuum chamber](https://www.youtube.com/watch?v=E43-CfukEgs) - dropping a feather and a bowling ball at the same time.  <br>
+-  [Kinematics 2D Demo: Cart and Ball](https://www.youtube.com/watch?v=CDf_0fPbNos) - The independence of the x and y directions  <br>
+![Alt Text](http://gifgifmagazine.com/wp-content/uploads/2019/04/tranbolina-i-kamion.gif)
+
+Activities:
+-  [PhET Motion](https://phet.colorado.edu/en/simulations/category/physics/motion) - online interactive simulations. <br>
+- [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
+- [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
+
+### Waves and Thermodynamics
+### Electricity and Magnetism
+
+## Ordering of subtopics
 Suggested order of topics for HS level physics.
 -  Motion in One Dimension  <br>
 -  Vectors  <br>
@@ -47,24 +65,4 @@ Suggested order of topics for HS level physics.
 -  Wave Optics  <br>
 -  Diffraction Patterns and Polarization  <br>
 
-These topics can be subdivided into themes.
-
-## Kinematics and Force Laws
-
-Video Resources: <br>
-- [Kinematics - Science of NFL football](https://www.youtube.com/watch?v=VrDFqmhTTVQ)
-- [One-dimensional Kinematics - SpaceX Reusable rocket](https://www.youtube.com/watch?v=bkbG8BJsInE) <br>
--  [World's Biggest vacuum chamber](https://www.youtube.com/watch?v=E43-CfukEgs) - dropping a feather and a bowling ball at the same time.  <br>
--  [Kinematics 2D Demo: Cart and Ball](https://www.youtube.com/watch?v=CDf_0fPbNos) - The independence of the x and y directions  <br>
-![Alt Text](http://gifgifmagazine.com/wp-content/uploads/2019/04/tranbolina-i-kamion.gif)
-
-Activities:
--  [PhET Motion](https://phet.colorado.edu/en/simulations/category/physics/motion) - online interactive simulations. <br>
-- [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
-- [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
-
-
-
-
-## Waves and Thermodynamics
-## Electricity and Magnetism
+These topics can be subdivided into themes. 
