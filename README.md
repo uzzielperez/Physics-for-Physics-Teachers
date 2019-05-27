@@ -8,7 +8,7 @@ Email <cperez3@crimson.ua.edu> for suggestions or submit a pull request.
 If you only had an hour to learn physics, [Walter Lewin's Last Lecture](https://www.youtube.com/watch?v=4OyyWwpwxR8) could be your best bet. [Paul Hewitt's Conceptual Physics Workshop For Teachers](https://www.youtube.com/watch?v=jB6UBlzpklc) also offers practical advice on teaching physics.
 
 ## Topics
-### Kinematics and Force Laws
+### Motion: Kinematics and Newton's Laws
 
 Video Resources: <br>
 - [Kinematics - Science of NFL football](https://www.youtube.com/watch?v=VrDFqmhTTVQ)
@@ -27,6 +27,7 @@ Activities:
 
 ## Ordering of subtopics
 Suggested order of topics for HS level physics.
+##### Motion: Kinematics and Newton's Laws
 -  Motion in One Dimension  <br>
 -  Vectors  <br>
 -  Motion in Two Dimensions    <br>
@@ -39,6 +40,7 @@ Suggested order of topics for HS level physics.
 -  Angular Momentum  <br>
 -  Static Equilibrium and Elasticity  <br>
 -  Universal Gravitation  <br>
+##### Fluid, Waves and Thermodynamics
 -  Fluid Mechanics  <br>
 -  Oscillatory Motion  <br>
 -  Wave Motion  <br>
@@ -48,6 +50,7 @@ Suggested order of topics for HS level physics.
 -  The First Law of Thermodynamics  <br>
 -  The Kinetic Theory of Gases  <br>
 -  Heat Engines, Entropy, and the Second Law of Thermodynamics  <br>
+##### Electricity and Magnetism, Optics
 -  Electric Fields  <br>
 -  Gauss's Law  <br>
 -  Electric Potential  <br>
@@ -65,4 +68,4 @@ Suggested order of topics for HS level physics.
 -  Wave Optics  <br>
 -  Diffraction Patterns and Polarization  <br>
 
-These topics can be subdivided into themes. 
+These topics can be subdivided into themes.
