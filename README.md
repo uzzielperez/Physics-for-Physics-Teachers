@@ -1,6 +1,7 @@
 # Physics-for-Physics-Teachers
 
 A repository of teaching materials for high school physics.
+Work-in-progress.
 
 ## Topics
 Suggested order of topics for HS level physics.
@@ -46,5 +47,14 @@ Suggested order of topics for HS level physics.
 These topics can be subdivided into themes.
 
 ## Kinematics and Force Laws
+
+Video Resources: <br>
+- [Kinematics - Science of NFL football](https://www.youtube.com/watch?v=VrDFqmhTTVQ)
+- [One-dimensional Kinematics - SpaceX Reusable rocket](https://www.youtube.com/watch?v=bkbG8BJsInE) <br>
+-  [World's Biggest vacuum chamber](https://www.youtube.com/watch?v=E43-CfukEgs) - dropping a feather and a bowling ball at the same time.  <br>
+-  [Kinematics 2D Demo: Cart and Ball](https://www.youtube.com/watch?v=CDf_0fPbNos) - The independence of the x and y directions  <br>
+![Alt Text](http://gifgifmagazine.com/wp-content/uploads/2019/04/tranbolina-i-kamion.gif)
+
+
 ## Waves and Thermodynamics
 ## Electricity and Magnetism
