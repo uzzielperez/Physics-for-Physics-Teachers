@@ -1,7 +1,7 @@
 # Physics-for-Physics-Teachers
 
 A repository of teaching materials for high school physics.
-Work-in-progress. Summer 2019. 
+Work-in-progress. Summer 2019.
 
 Email <cperez3@crimson.ua.edu> for suggestions or submit a pull request.
 
@@ -9,7 +9,7 @@ Email <cperez3@crimson.ua.edu> for suggestions or submit a pull request.
 
 ## Topics
 Suggested order of topics for HS level physics.
-If you only had an hour to learn physics, [Walter Lewin's Last Lecture](https://www.youtube.com/watch?v=4OyyWwpwxR8) could be your best bet.
+If you only had an hour to learn physics, [Walter Lewin's Last Lecture](https://www.youtube.com/watch?v=4OyyWwpwxR8) could be your best bet. If you have an extra 10 minutes [Paul Hewitt's Conceptual Physics Workshop For Teachers](https://www.youtube.com/watch?v=jB6UBlzpklc) offers practical advice on teaching physics. 
 
 -  Motion in One Dimension  <br>
 -  Vectors  <br>
