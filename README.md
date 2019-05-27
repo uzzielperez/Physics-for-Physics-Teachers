@@ -3,6 +3,8 @@
 A repository of teaching materials for high school physics.
 Work-in-progress.
 
+Email <cperez3@crimson.ua.edu> for suggestions or submit a pull request.
+
 ## Topics
 Suggested order of topics for HS level physics.
 
@@ -54,6 +56,13 @@ Video Resources: <br>
 -  [World's Biggest vacuum chamber](https://www.youtube.com/watch?v=E43-CfukEgs) - dropping a feather and a bowling ball at the same time.  <br>
 -  [Kinematics 2D Demo: Cart and Ball](https://www.youtube.com/watch?v=CDf_0fPbNos) - The independence of the x and y directions  <br>
 ![Alt Text](http://gifgifmagazine.com/wp-content/uploads/2019/04/tranbolina-i-kamion.gif)
+
+Activities:
+-  [PhET Motion](https://phet.colorado.edu/en/simulations/category/physics/motion) - online interactive simulations. <br>
+- [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
+- [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
+
+
 
 
 ## Waves and Thermodynamics
