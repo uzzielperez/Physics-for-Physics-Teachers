@@ -20,10 +20,25 @@ Video Resources: <br>
 Activities:
 -  [PhET Motion](https://phet.colorado.edu/en/simulations/category/physics/motion) - online interactive simulations. <br>
 - [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
-- [Uniform Acceleration in One Dimension](https://www.geogebra.org/m/bV3nXswB#material/d7vZRB8r) - x-t and v-t graphs
+- [Uniform Acceleration in One Dimension](https://www.geogebra.org/m/bV3nXswB#material/d7vZRB8r) - x-t and v-t graphs.
 - [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
 
 ### Waves and Thermodynamics
+- Oscillatory Motion
+
+![Alt Text](https://media.giphy.com/media/LDaBbFGqUwjPq/giphy.gif)
+- [Pendulum losing energy creating lissajous patterns](https://www.youtube.com/watch?v=uPbzhxYTioM).
+- Pendulum various lengths
+
+![Alt Text](https://media.giphy.com/media/KrzvaTeFSvUk0/giphy.gif)
+- Walter Lewin Bowling ball pendulum
+
+![Alt Text](https://media.giphy.com/media/OYlqYt3kQKvJe/giphy.gif)
+
+- Double Pendulum and Chaos
+
+![Alt Text](https://media.giphy.com/media/FocsQ4wRkgEtW/giphy-downsized.gif)
+
 ### Electricity and Magnetism
 
 ## Ordering of subtopics
