@@ -20,7 +20,7 @@ Video Resources: <br>
 Activities:
 -  [PhET Motion](https://phet.colorado.edu/en/simulations/category/physics/motion) - online interactive simulations. <br>
 - [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
-- [s
+- [Uniform Acceleration in One Dimension](https://www.geogebra.org/m/bV3nXswB#material/d7vZRB8r) - x-t and v-t graphs
 - [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
 
 ### Waves and Thermodynamics
