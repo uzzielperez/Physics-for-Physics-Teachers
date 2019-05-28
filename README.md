@@ -24,22 +24,17 @@ Activities:
 - [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
 
 ### Waves and Thermodynamics
-- Oscillatory Motion
 
-![Alt Text](https://media.giphy.com/media/LDaBbFGqUwjPq/giphy.gif)
+Video Resources: <br>
 - [Pendulum losing energy creating lissajous patterns](https://www.youtube.com/watch?v=uPbzhxYTioM).
 - Pendulum various lengths
 
 ![Alt Text](https://media.giphy.com/media/KrzvaTeFSvUk0/giphy.gif)
 - Walter Lewin Bowling ball pendulum
 
-![Alt Text](https://media.giphy.com/media/OYlqYt3kQKvJe/giphy.gif)
-
-- Double Pendulum and Chaos
-
-![Alt Text](https://media.giphy.com/media/FocsQ4wRkgEtW/giphy-downsized.gif)
-
 ### Electricity and Magnetism
+
+Some teachers prefer starting from applied problems or more visual topics like optics before delving into more abstract concepts of charge and electric fields. You can decide if a top-down or a bottom-up approach is more suited for your style of teaching. 
 
 ## Ordering of subtopics
 Suggested order of topics for HS level physics.
