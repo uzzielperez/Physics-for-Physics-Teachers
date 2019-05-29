@@ -20,4 +20,4 @@ This online activity - [Uniform Acceleration in One Dimension](https://www.geoge
 ![Graphs](https://75329fe2-a-29b41ee7-s-sites.googlegroups.com/a/pleasantonusd.net/barnettdreyfuss/physics/kingraphs/KinGraphSummary.bmp?attachauth=ANoY7cpMY29xmrIzjqleUVwfRTjDufNeYpb-BURl6Vyve-nyP3HoLu9HVtiFpaXSlb49Xa_aEAzOkfXUfHNKf5yh1dCxsYVVgWkrUy1KvFIU1Ush6ufHSyO5aoABRKZa6ZhJCbcVZ2ilTsiKQcnGuGv95wYpstLdR2l7owhZkpMydkaWxbNbaLLXXFFu1HE9Z7U5yVzbeTrMS_eN98B_3M_rvLZBG_F5rzXKuy9RZ2rHJQhqtZqXfw3Qt1D9DYtEDWq6lCPkU0_n&attredirects=1)
 
 If you want to go through all the equation and show a simple way to derive them mathematically, this teaching resource helps -
-[Kinematic Formulas Derivation Khan Academy.](https://www.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas/a/what-are-the-kinematic-formulas.) 
+[Kinematic Formulas Derivation Khan Academy.](https://www.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas/a/what-are-the-kinematic-formulas) 
