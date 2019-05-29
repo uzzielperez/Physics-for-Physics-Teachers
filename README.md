@@ -22,7 +22,7 @@ Activities:
 - [PhET Energy and Power](https://phet.colorado.edu/en/simulations/category/physics/work-energy-and-power)
 - [Uniform Acceleration in One Dimension](https://www.geogebra.org/m/bV3nXswB#material/d7vZRB8r) - x-t and v-t graphs.
 - [Fun experiments](https://www.youtube.com/watch?v=ILhckx1zGXw) with household materials.
-
+- [PocketLab Turbo Track Kit](https://www.thingiverse.com/thing:3630616) - 3D printing templates. Teach about Newton's laws, energy, waves and applications. 
 ### Waves and Thermodynamics
 
 Video Resources: <br>
