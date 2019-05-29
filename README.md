@@ -36,7 +36,14 @@ Video Resources: <br>
 
 ### Electricity and Magnetism
 
-Some teachers prefer starting from applied problems or more visual topics like optics before delving into more abstract concepts of charge and electric fields. You can decide if a top-down or a bottom-up approach is more suited for your style of teaching.
+Some teachers prefer starting from applied problems or more visual topics like optics before delving into more abstract concepts of charge and electric fields. You can decide if a top-down or a bottom-up approach is more suited for your style of teaching. If we look back on history, man's curiosity about electricity and magnetism started with "magic shows". They lifted pieces of paper with amber. They didn't really understand the first principles for a long while until some great scientists "sat down" to really study them.
+
+Activities:
+-  [Lenses](https://www.geogebra.org/m/dGdEMuUW#material/cPqeYrJQ) - online interactive simulation. An easy way to draw ray diagrams. <br>
+- [Hologram Smart Phone](https://www.youtube.com/watch?v=Omd-MhqCM88). It's based on the principle behind Pepper's Ghost. You can read more about it [here](https://cosmosmagazine.com/physics/the-science-behind-the-pepper-s-ghost-illusion).
+- [Total Internal Reflection]
+
+![Alt Text](https://media.giphy.com/media/6mZNQkxi0A10s/giphy.gif)
 
 ## Ordering of subtopics
 Suggested order of topics for HS level physics.
